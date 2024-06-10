@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/Pramod-Devireddy/go-exprtk"
+	"github.com/Romerito007/go-exprtk"
 )
 
 func example02() {
